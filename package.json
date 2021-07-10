@@ -1,0 +1,7 @@
+{
+  "name": "@pouple/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<pouple>",
+  "license": "MIT"
+}
